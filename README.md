@@ -1,7 +1,7 @@
 # La7-La7d Kodi plugin
 Live Streaming, Replay the last week, LA7 Prime, On-Demand programs, News & Weather, Teche LA7-The Protagonists (italian language)
 
-###
+### Install tips
 This version is for Kodi18
 You need an old version of inputstream.adaptive (Ver 2.4.5) for the Live channels and encrypted programs
 
