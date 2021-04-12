@@ -237,7 +237,7 @@ def rivedi(url, thumb):
     req = urllib2.Request(url,headers={'user-agent': headers_set['user-agent']})
     page=urllib2.urlopen(req)
     html=BeautifulSoup(page,'html5lib')
-    giorno=html.find('div',class_='block block-system').find_all('div',class_=['item item--menu-guida-tv ','item item--menu-guida-tv active '])
+    giorno=html.find('div',class_='block block-system').find_all('div',class_=['item item--menu-guida-tv','item item--menu-guida-tv active'])
     #xbmc.log('GIORNO----------: '+str(giorno),xbmc.LOGNOTICE)
     if giorno:
         for div in reversed(giorno):
