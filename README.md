@@ -6,6 +6,9 @@ This version is for Kodi18
 You need inputstream.adaptive Ver 2.4.7 or later to watch the Live channels and encrypted programs
 
 ### Changelog
+4.8.2 (2021-04-14)
+- Fixed Live channels
+
 4.8.1 (2021-04-12) Kodi18 Version
 - Fixed Rivedi LA7 and Rivedi LA7d
 
